@@ -1,0 +1,13 @@
+
+.completed{
+    text-decoration: line-through;
+}
+
+.task_title{
+    font-weight: 400;
+}
+
+.main_box{
+    margin: 0 auto;
+    height: 900px;
+}
